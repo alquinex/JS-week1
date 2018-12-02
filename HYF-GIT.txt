@@ -1,0 +1,2 @@
+
+This is Hack Your Future first Git class. As today marks my first class ever with JavaScript, I am already enjoying it.
